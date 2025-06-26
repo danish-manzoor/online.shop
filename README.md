@@ -26,7 +26,7 @@ Follow these steps to set up the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/danish-manzoor/online.shop.git
 cd your-repo
 ```
 
